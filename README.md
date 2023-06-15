@@ -12,7 +12,9 @@ As a prospective traveler, I would like an application that allows me to search 
 
 ## Installation
 ### Clone Repository
-- git clone https://github.com/lissasimp/Travel2App
+- Open Git Bash
+- Change the current working directory to the location where you want the cloned directory.
+- Type git clone https://github.com/lissasimp/Travel2
 
 ## Start Application
 - You will see App running on port 3000! in the console. You can then view the app on http://localhost:3000/.
