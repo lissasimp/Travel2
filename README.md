@@ -1,5 +1,18 @@
 # Travel2
 
+## Table of Contents
+- [Features](#features)
+- [User Story](#user-story)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Links](#links)
+- [Technology Used](#technology-used)
+- [APIs Used](#apis-used)
+- [Additional API](#additional-api)
+- [Credits](#credits)
+- [Collaborators](#collaborators)
+- [Permission](#permission)
+
 ## Features
 ### This application has the following features:
 - A user can generate information about a city by entering a city name in the search bar, clicking on Surprise Me or by selecting one of the previous searches.
@@ -11,19 +24,16 @@
 As a prospective traveler, I would like an application that allows me to search for key information about a city I wish to visit or to explore other cities I may wish to visit. When I am on the homepage, I am presented with key information for my chosen city in an easy to navigate and clearly presented format.  When looking for places of interest, I am provided with 6 options and additionally the opportunity to explore further on Wikipedia.
 
 ## Installation
-### Clone Repository
 - Open Git Bash
 - Change the current working directory to the location where you want the cloned directory.
 - Type git clone https://github.com/lissasimp/Travel2
-
-## Start Application
 - You will see App running on port 3000! in the console. You can then view the app on http://localhost:3000/.
 
-## Usage
+## Links
 Deployed Page: https://lissasimp.github.io/Travel2/
 ![fully functional web page](./assets/images/Full%20size%20screenshot.png)
 
-## Technologies Used
+## Technology Used
 - Postman: https://web.postman.co/
 - Insomnia: https://insomnia.rest/
 - Figma: https://www.figma.com/
@@ -57,15 +67,15 @@ The following websites were used to support this project:
 - Bootstrap Modal: https://www.youtube.com/watch?v=cCxcxRw9j_s&feature=youtu.be
 - Max amount of characters: https://stackoverflow.com/questions/19425555/maximum-amount-of-characters-in-a-div-paragraph-tag
 
-
 ## Collaborators
 - Rita Fitchett https://github.com/reets93
 - Kamel Beloula https://github.com/kamel-beloula
 - Lissa Simpson https://github.com/lissasimp
 
-## Project Presentation
-- https://docs.google.com/presentation/d/1OTuDEIMuqXe5_06_KbwjwPVqkfuxwyquVSpXkrEMaJQ/edit?usp=sharing
+## Permission
+I'm happy for you to use the code or parts of the code for your own site, it is open source so people can learn from it and adapt it. However, I would encourage you to modify the theme and components to make it your own. If you are using the site's design largely unmodified, I'd appreciate being credited as the designer of the website.
 
+I do not give permission to present any of my projects as your own.
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
