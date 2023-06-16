@@ -19,7 +19,6 @@ As a prospective traveler, I would like an application that allows me to search 
 ## Start Application
 - You will see App running on port 3000! in the console. You can then view the app on http://localhost:3000/.
 
-
 ## Usage
 Deployed Page: https://lissasimp.github.io/Travel2/
 ![fully functional web page](./assets/images/Full%20size%20screenshot.png)
