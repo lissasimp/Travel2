@@ -32,6 +32,7 @@ As a prospective traveler, I would like an application that allows me to search 
 
 ## Links
 Deployed Page: https://lissasimp.github.io/Travel2/
+
 ![fully functional web page](./assets/images/Full%20size%20screenshot.png)
 
 ## Technology Used
