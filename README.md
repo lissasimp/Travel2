@@ -15,7 +15,7 @@
 
 ## Features
 ### This application has the following features:
-- A user can generate information about a city by entering a city name in the search bar, clicking on Surprise Me or by selecting one of the previous searches.
+TEST A user can generate information about a city by entering a city name in the search bar, clicking on Surprise Me or by selecting one of the previous searches.
 - The application displays a 4 day weather forecast; some handy city facts including timezone; a carousel of images; a translation app and some interesting places to visit.
 - A random city is generated from an array and page is dynamically updated.
 - If a user enters incorrect information, a modal will appear to guide them.
